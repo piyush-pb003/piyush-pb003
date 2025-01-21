@@ -1,3 +1,4 @@
+![logo](https://github.com/piyush-pb003/piyush-pb003/blob/b24aa791369360b992164251b459486c53f7fbec/github%20cover%20final.jpg)
 <h1 align="center">Hi 👋, I'm Piyush Ballal</h1>
 <h3 align="center">Passionate about AI/ML, building intelligent solutions with data.</h3>
 
