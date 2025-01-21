@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Ballal</h1>
 <h3 align="center">Passionate about AI/ML, building intelligent solutions with data.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs"
+<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 - 📫 How to reach me **piyushballal03@gmail.com**
 
